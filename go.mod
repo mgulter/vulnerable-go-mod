@@ -1,6 +1,6 @@
 module github.com/mgulter/vulnerable-go-mod
 
-go 1.25.2
+go 1.25.9
 
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
